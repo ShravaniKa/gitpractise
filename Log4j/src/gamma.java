@@ -11,6 +11,8 @@ public class gamma {
 
 		log.debug("im in debug mode");
 		log.info("new method");
+		log.fatal("fatal msg");
+		log.error("default pkg");
 	}
 
 }
