@@ -12,6 +12,7 @@ private static Logger log=LogManager.getLogger(demo2.class.getName());
 		log.info("object is present");
 		log.error("not present");
 		log.fatal("fatal");
+		log.error("code not working");
 		
 	}
 
